@@ -1,0 +1,27 @@
+{
+  "id": "safelight.detail",
+  "name": "Detail",
+  "version": "3.0.0",
+  "description": "Sharpening, with the noise-reduction sliders and their previews.",
+  "author": "Anthony Reimche",
+  "main": "dist/index.js",
+  "license": "GPL-3.0-only",
+  "categories": [
+    "detail"
+  ],
+  "keywords": [
+    "sharpening",
+    "sharpen",
+    "noise reduction",
+    "denoise",
+    "luminance noise",
+    "colour noise",
+    "texture",
+    "clarity"
+  ],
+  "repository": "anthonyreimche/detail",
+  "worksWith": [
+    "anthonyreimche/Develop"
+  ],
+  "minAppVersion": "3.2.0"
+}
