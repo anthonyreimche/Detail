@@ -126,7 +126,7 @@ describe("the Detail panel", () => {
       ["Contrast", 0, 100, 1, 0],
       ["Shadows", 0, 100, 1, 0],
       ["Highlights", 0, 100, 1, 0],
-      ["Color", 0, 100, 1, 25],
+      ["Colour", 0, 100, 1, 25],
       ["Detail", 0, 100, 1, 50],
       ["Smoothness", 0, 100, 1, 50],
     ]);
@@ -151,7 +151,7 @@ describe("the Detail panel", () => {
       { setParam: "luminanceNR", value: 20 },
       { commitEdit: "Noise Reduction Luminance" },
       { setParam: "colorNR", value: 40 },
-      { commitEdit: "Color" },
+      { commitEdit: "Colour" },
     ]);
   });
 

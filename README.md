@@ -6,7 +6,7 @@ built-in noise reduction.
 - **Sharpening:** Amount, Radius, Detail (halo control) and Masking (0
   sharpens everything, 100 only edges).
 - **Noise Reduction:** Luminance with its Detail, Contrast, Shadows and
-  Highlights, and Color with its Detail and Smoothness.
+  Highlights, and Colour with its Detail and Smoothness.
 - Hold **Alt** or **Ctrl** while dragging a slider to preview it on the
   canvas: Masking shows the edges it keeps, Detail the edge signal, the
   luminance sliders the image in grey, and the colour sliders its colour

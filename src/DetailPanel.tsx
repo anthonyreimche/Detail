@@ -56,7 +56,7 @@ const LUMINANCE_NR: SliderDef[] = [
 ];
 
 const COLOR_NR: SliderDef[] = [
-  { key: "colorNR", label: "Color", min: 0, max: 100, step: 1, preview: 4 },
+  { key: "colorNR", label: "Colour", min: 0, max: 100, step: 1, preview: 4 },
   { key: "colorNRDetail", label: "Detail", min: 0, max: 100, step: 1, preview: 4 },
   { key: "colorNRSmoothness", label: "Smoothness", min: 0, max: 100, step: 1, preview: 4 },
 ];
