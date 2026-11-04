@@ -1,7 +1,7 @@
 {
   "name": "safelight-detail",
   "private": true,
-  "version": "3.0.0",
+  "version": "3.0.1",
   "description": "Detail extension for Safelight: sharpening and the noise-reduction sliders.",
   "type": "module",
   "scripts": {

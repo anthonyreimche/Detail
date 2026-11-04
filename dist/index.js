@@ -111,7 +111,7 @@ var o = {
 ], l = [
 	{
 		key: "colorNR",
-		label: "Color",
+		label: "Colour",
 		min: 0,
 		max: 100,
 		step: 1,
