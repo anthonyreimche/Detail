@@ -58,6 +58,7 @@ describe("activate", () => {
         title: "Detail",
         component: DetailPanel,
         defaultDock: { module: "develop", direction: "right", order: 8, width: 280, height: 150 },
+        modules: ["develop"],
         onReset: expect.any(Function),
         mask: DETAIL_MASK_PANEL,
       },

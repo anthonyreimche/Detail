@@ -249,6 +249,7 @@ function C(e) {
 			width: 280,
 			height: 150
 		},
+		modules: ["develop"],
 		onReset: () => void e.stores.useDevelopStore.getState().resetParams(u, "Reset Detail"),
 		mask: h
 	});
